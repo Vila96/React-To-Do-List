@@ -12,7 +12,7 @@ class App extends Component {
     this.dataList = [
       {id : 1, text: "Make lunch"},
       {id : 2, text: "Clean kitchen"},
-      {id : 3, text: "Clean bathrrom"},
+      {id : 3, text: "Clean bathroom"},
       {id : 4, text: "Broom the floor"},
       {id : 5, text: "Do the laundry"},
     ];
