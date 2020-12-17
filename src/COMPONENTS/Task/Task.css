@@ -1,0 +1,37 @@
+.List{
+    text-align: left ;
+    margin-top: 10px;
+}
+li>button{
+    background-color: rgb(255, 164, 154);
+    margin-left: 10px;
+
+    
+}
+#itemContainer{
+    width: 350px;
+    background-color: rgb(56, 96, 110) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    box-shadow: 5px 5px 6px -5px #000000;
+}
+#itemContainer>p{
+    width:200px;
+}
+
+button{
+    width:75px;
+    height:40px;
+    border-radius: 5px;
+    background-color: rgb(226, 243, 243);
+    box-shadow: 5px 5px 6px -5px #3636369d;
+}
+.strike {
+    text-decoration: line-through;
+}
